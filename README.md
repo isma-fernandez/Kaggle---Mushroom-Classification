@@ -4,13 +4,17 @@ Aquest projecte utilitza el dataset del concurs [Playground Series S4E8](https:/
 
 ## ✨ Descripció del projecte
 
-El projecte explora i optimitza dos dels models més potents en Machine Learning: **CatBoost** i **XGBoost**. Es fan servir diferents tècniques d'optimització i ajust de paràmetres per aconseguir el millor rendiment possible en la competició, juntament amb un preprocessament de les dades abastant el tractament de outliers, valors "null", codificació tant de característiques categòriques com ordinals i el target, eliminació de columnes no rellevant a partir de la correlació amb la variable objectiu i la normalització del dataset.
+El projecte explora i optimitza tres dels models més potents en Machine Learning: **CatBoost**, **XGBoost** i **LightGBM**. També es desenvolupen experiments amb altres algoritmes per contrastar el rendiment i trobar una combinació òptima. Es fan servir diferents tècniques d'optimització i ajust de paràmetres per aconseguir el millor rendiment possible en la competició, juntament amb un preprocessament de les dades abastant el tractament de outliers, valors "null", codificació tant de característiques categòriques com ordinals i el target, eliminació de columnes no rellevant a partir de la correlació amb la variable objectiu i la normalització del dataset.
 
 ---
 
 ## 📝 Contingut del projecte
 
-Conté els notebooks i un arxiu amb les direccions tant a la base de dades com la pàgina de kaggle d'on s'ha obtingut.
+Conté els notebooks amb experiments detallats que implementen:
+- Divisió de dades amb `train_test_split` i estratègies avançades com `StratifiedKFold`.
+- Codificació utilitzant eines com `LabelEncoder`, `OrdinalEncoder` i `OneHotEncoder`.
+- Normalització i escalat amb `StandardScaler`.
+- Selecció i transformació de característiques amb tècniques com PCA (Anàlisi de Components Principals).
 
 ---
 
@@ -24,6 +28,26 @@ Conté els notebooks i un arxiu amb les direccions tant a la base de dades com l
    - Model basat en gradient boosting amb suport natiu per a variables categòriques.
    - Implementat amb paràmetres ajustables com `iterations`, `depth`, i `bagging_temperature`.
 
+3. **LightGBM (LGBM)**:
+   - Model optimitzat per a grans datasets i alta velocitat d'entrenament.
+   - Ajustos d'hiperparàmetres com `num_leaves`, `max_depth`, i `learning_rate`.
+   - Implementació nativa de Gradient Boosting Decision Tree (GBDT).
+
+4. **Altres models explorats**:
+   - **Logistic Regression**: Base lineal.
+   - **Random Forest**: Model d'ensemble basat en arbres de decisió.
+   - **Support Vector Machines (SVM)**: Algoritme lineal i no lineal.
+   - **Decision Trees**: Model explicatiu per característiques simples.
+
+---
+
+## ⚙️ Metodologies d'Avaluació
+
+- Mètriques:
+  - `accuracy_score`, `f1_score`, i `matthews_corrcoef` per analitzar el rendiment.
+- Cross-validation:
+  - Implementada amb `cross_val_score` i CV específic per XGBoost (`xgb_cv`), CatBoost (`catboost_cv`) i LightGBM (`lgb.cv`).
+
 ---
 
 ## 📂 Requeriments
@@ -31,4 +55,4 @@ Conté els notebooks i un arxiu amb les direccions tant a la base de dades com l
 Aquest projecte utilitza **Python** i diverses biblioteques. Assegura't de tenir-les instal·lades:
 
 ```bash
-pip install catboost xgboost pandas numpy scikit-learn matplotlib
+pip install catboost xgboost lightgbm pandas numpy scikit-learn matplotlib
