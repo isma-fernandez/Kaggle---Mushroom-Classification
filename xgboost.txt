@@ -1,0 +1,1098 @@
+Grid search amb 72 combinacions de paràmetres...
+
+Evaluant combinació 1/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 1: Accuracy = 0.9879, Desviació = 0.0003
+
+Evaluant combinació 2/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 2: Accuracy = 0.9878, Desviació = 0.0003
+
+Evaluant combinació 3/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 3: Accuracy = 0.9878, Desviació = 0.0003
+
+Evaluant combinació 4/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 4: Accuracy = 0.9878, Desviació = 0.0004
+
+Evaluant combinació 5/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 5: Accuracy = 0.9878, Desviació = 0.0005
+
+Evaluant combinació 6/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 6: Accuracy = 0.9879, Desviació = 0.0004
+
+Evaluant combinació 7/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 7: Accuracy = 0.9900, Desviació = 0.0002
+
+Evaluant combinació 8/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 8: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 9/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 9: Accuracy = 0.9900, Desviació = 0.0002
+
+Evaluant combinació 10/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 10: Accuracy = 0.9900, Desviació = 0.0004
+
+Evaluant combinació 11/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 11: Accuracy = 0.9901, Desviació = 0.0003
+
+Evaluant combinació 12/72: {'n_estimators': 800, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 12: Accuracy = 0.9901, Desviació = 0.0002
+
+Evaluant combinació 13/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 13: Accuracy = 0.9897, Desviació = 0.0003
+
+Evaluant combinació 14/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 14: Accuracy = 0.9897, Desviació = 0.0003
+
+Evaluant combinació 15/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 15: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 16/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 16: Accuracy = 0.9896, Desviació = 0.0003
+
+Evaluant combinació 17/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 17: Accuracy = 0.9896, Desviació = 0.0003
+
+Evaluant combinació 18/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 18: Accuracy = 0.9895, Desviació = 0.0003
+
+Evaluant combinació 19/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 19: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 20/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 20: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 21/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 21: Accuracy = 0.9898, Desviació = 0.0003
+
+Evaluant combinació 22/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 22: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 23/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 23: Accuracy = 0.9900, Desviació = 0.0002
+
+Evaluant combinació 24/72: {'n_estimators': 800, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 24: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 25/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 25: Accuracy = 0.9894, Desviació = 0.0002
+
+Evaluant combinació 26/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 26: Accuracy = 0.9895, Desviació = 0.0002
+
+Evaluant combinació 27/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 27: Accuracy = 0.9894, Desviació = 0.0001
+
+Evaluant combinació 28/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 28: Accuracy = 0.9892, Desviació = 0.0002
+
+Evaluant combinació 29/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 29: Accuracy = 0.9893, Desviació = 0.0002
+
+Evaluant combinació 30/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 30: Accuracy = 0.9893, Desviació = 0.0003
+
+Evaluant combinació 31/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 31: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 32/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 32: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 33/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 33: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 34/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 34: Accuracy = 0.9898, Desviació = 0.0003
+
+Evaluant combinació 35/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 35: Accuracy = 0.9900, Desviació = 0.0003
+
+Evaluant combinació 36/72: {'n_estimators': 1200, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 36: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 37/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 37: Accuracy = 0.9901, Desviació = 0.0002
+
+Evaluant combinació 38/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 38: Accuracy = 0.9901, Desviació = 0.0003
+
+Evaluant combinació 39/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 39: Accuracy = 0.9901, Desviació = 0.0003
+
+Evaluant combinació 40/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 40: Accuracy = 0.9899, Desviació = 0.0003
+
+Evaluant combinació 41/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 41: Accuracy = 0.9899, Desviació = 0.0003
+
+Evaluant combinació 42/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 42: Accuracy = 0.9899, Desviació = 0.0003
+
+Evaluant combinació 43/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 43: Accuracy = 0.9897, Desviació = 0.0003
+
+Evaluant combinació 44/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 44: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 45/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 45: Accuracy = 0.9897, Desviació = 0.0003
+
+Evaluant combinació 46/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 46: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 47/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 47: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 48/72: {'n_estimators': 1200, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 48: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 49/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 49: Accuracy = 0.9900, Desviació = 0.0003
+
+Evaluant combinació 50/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 50: Accuracy = 0.9900, Desviació = 0.0003
+
+Evaluant combinació 51/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 51: Accuracy = 0.9900, Desviació = 0.0002
+
+Evaluant combinació 52/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 52: Accuracy = 0.9899, Desviació = 0.0002
+
+Evaluant combinació 53/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 53: Accuracy = 0.9899, Desviació = 0.0003
+
+Evaluant combinació 54/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 54: Accuracy = 0.9899, Desviació = 0.0003
+
+Evaluant combinació 55/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 55: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 56/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 56: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 57/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 57: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 58/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 58: Accuracy = 0.9898, Desviació = 0.0003
+
+Evaluant combinació 59/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 59: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 60/72: {'n_estimators': 1600, 'max_depth': 10, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 60: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 61/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0}
+Combinació 61: Accuracy = 0.9902, Desviació = 0.0003
+
+Evaluant combinació 62/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 62: Accuracy = 0.9902, Desviació = 0.0003
+
+Evaluant combinació 63/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 63: Accuracy = 0.9901, Desviació = 0.0003
+
+Evaluant combinació 64/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0}
+Combinació 64: Accuracy = 0.9900, Desviació = 0.0003
+
+Evaluant combinació 65/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 65: Accuracy = 0.9901, Desviació = 0.0003
+
+Evaluant combinació 66/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 66: Accuracy = 0.9900, Desviació = 0.0003
+
+Evaluant combinació 67/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0}
+Combinació 67: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 68/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.001}
+Combinació 68: Accuracy = 0.9897, Desviació = 0.0003
+
+Evaluant combinació 69/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.7, 'alpha': 0.1}
+Combinació 69: Accuracy = 0.9896, Desviació = 0.0002
+
+Evaluant combinació 70/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0}
+Combinació 70: Accuracy = 0.9897, Desviació = 0.0002
+
+Evaluant combinació 71/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.001}
+Combinació 71: Accuracy = 0.9898, Desviació = 0.0002
+
+Evaluant combinació 72/72: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.1, 'subsample': 0.9, 'alpha': 0.1}
+Combinació 72: Accuracy = 0.9897, Desviació = 0.0002
+
+Grid search completat.
+
+Millors Paràmetres: {'n_estimators': 1600, 'max_depth': 15, 'learning_rate': 0.01, 'subsample': 0.7, 'alpha': 0.001}
+Millor accuracy: 0.9902
+({'n_estimators': 1600,
+  'max_depth': 15,
+  'learning_rate': 0.01,
+  'subsample': 0.7,
+  'alpha': 0.001},
+ {'mean_accuracy': 0.990182643169787,
+  'std_accuracy': 0.0003042267209070223,
+  'fold_accuracies': [0.9901230607053647,
+   0.9904209730274767,
+   0.9897334830533722,
+   0.9900313953754841,
+   0.9906043036872378]},
+ [{'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9878635103238078,
+    'std_accuracy': 0.0003233071400609385,
+    'fold_accuracies': [0.9873960171414167,
+     0.9881293397804616,
+     0.9877626784609391,
+     0.9877168457959988,
+     0.9883126704402228]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9878497605243257,
+    'std_accuracy': 0.00033284740299036996,
+    'fold_accuracies': [0.9873272681440063,
+     0.9881064234479914,
+     0.9879460091207003,
+     0.9876251804661182,
+     0.9882439214428123]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9877947613263973,
+    'std_accuracy': 0.00032878348987254094,
+    'fold_accuracies': [0.9873731008089466,
+     0.9880376744505809,
+     0.9877855947934092,
+     0.9875105988037675,
+     0.9882668377752825]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9877672617274331,
+    'std_accuracy': 0.00037442790779382355,
+    'fold_accuracies': [0.9873731008089466,
+     0.9879918417856406,
+     0.9878314274583496,
+     0.9873272681440063,
+     0.9883126704402228]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9878176776588674,
+    'std_accuracy': 0.00048431054126428806,
+    'fold_accuracies': [0.987143937484245,
+     0.9882210051103422,
+     0.98790017645576,
+     0.9873960171414167,
+     0.9884272521025735]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9878864266562777,
+    'std_accuracy': 0.0003578471718210438,
+    'fold_accuracies': [0.9875335151362375,
+     0.9882439214428123,
+     0.9878085111258794,
+     0.9874876824712973,
+     0.988358503105163]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9899993125100259,
+    'std_accuracy': 0.0002432156043985256,
+    'fold_accuracies': [0.9898251483832528,
+     0.9900772280404244,
+     0.9898480647157228,
+     0.9898022320507825,
+     0.9904438893599469]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9898893141141691,
+    'std_accuracy': 0.00021172508582077752,
+    'fold_accuracies': [0.9896189013910214,
+     0.9900543117079542,
+     0.989710566720902,
+     0.989870981048193,
+     0.9901918097027752]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9899534798450856,
+    'std_accuracy': 0.00020322019641492805,
+    'fold_accuracies': [0.9897563993858423,
+     0.9900543117079542,
+     0.9899397300456035,
+     0.9897334830533722,
+     0.9902834750326558]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.990008479043014,
+    'std_accuracy': 0.0003623390311167655,
+    'fold_accuracies': [0.9900543117079542,
+     0.9901230607053647,
+     0.98941265439879,
+     0.9899168137131333,
+     0.9905355546898275]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9901368105048469,
+    'std_accuracy': 0.0002698294755282961,
+    'fold_accuracies': [0.989870981048193,
+     0.9903293076975961,
+     0.9898251483832528,
+     0.9901230607053647,
+     0.9905355546898275]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9900543117079543,
+    'std_accuracy': 0.0002332517936613188,
+    'fold_accuracies': [0.9898938973806632,
+     0.9900772280404244,
+     0.9897334830533722,
+     0.9901459770378349,
+     0.9904209730274767]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9897197332538902,
+    'std_accuracy': 0.00025707181817963927,
+    'fold_accuracies': [0.9897793157183125,
+     0.9900772280404244,
+     0.9892980727364392,
+     0.9896189013910214,
+     0.9898251483832528]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9896784838554437,
+    'std_accuracy': 0.00027407780347368126,
+    'fold_accuracies': [0.9896647340559617,
+     0.9899855627105438,
+     0.9892293237390288,
+     0.9895730687260811,
+     0.9899397300456035]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9896968169214198,
+    'std_accuracy': 0.00024664617727292176,
+    'fold_accuracies': [0.9897563993858423,
+     0.9899397300456035,
+     0.9892293237390288,
+     0.989710566720902,
+     0.9898480647157228]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9895684854595871,
+    'std_accuracy': 0.0002953985479170917,
+    'fold_accuracies': [0.9895959850585512,
+     0.9900313953754841,
+     0.9891605747416183,
+     0.9893668217338497,
+     0.9896876503884319]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9895639021930931,
+    'std_accuracy': 0.0003080009646201725,
+    'fold_accuracies': [0.9896418177234916,
+     0.9899855627105438,
+     0.9890918257442078,
+     0.9893668217338497,
+     0.9897334830533722]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9894997364621766,
+    'std_accuracy': 0.00030759147944290315,
+    'fold_accuracies': [0.9895730687260811,
+     0.9898938973806632,
+     0.9889772440818572,
+     0.9893897380663199,
+     0.9896647340559617]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9898205651167586,
+    'std_accuracy': 0.00024613463954162296,
+    'fold_accuracies': [0.9895043197286706,
+     0.9898251483832528,
+     0.9897334830533722,
+     0.9897793157183125,
+     0.9902605587001856]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9897793157183126,
+    'std_accuracy': 0.00024165595850243773,
+    'fold_accuracies': [0.989870981048193,
+     0.9896189013910214,
+     0.9895730687260811,
+     0.9896189013910214,
+     0.9902147260352453]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9897747324518184,
+    'std_accuracy': 0.0002852692223497346,
+    'fold_accuracies': [0.9895272360611408,
+     0.9897793157183125,
+     0.9895272360611408,
+     0.9897334830533722,
+     0.9903063913651259]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9898847308476751,
+    'std_accuracy': 0.00021672599706739043,
+    'fold_accuracies': [0.9896647340559617,
+     0.9899168137131333,
+     0.9898251483832528,
+     0.9897334830533722,
+     0.9902834750326558]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.990017645576002,
+    'std_accuracy': 0.0002011422257028641,
+    'fold_accuracies': [0.989870981048193,
+     0.9901459770378349,
+     0.9898938973806632,
+     0.9898251483832528,
+     0.9903522240300662]}},
+  {'params': {'n_estimators': 800,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9899305635126154,
+    'std_accuracy': 0.00021379845158357337,
+    'fold_accuracies': [0.9898480647157228,
+     0.9899855627105438,
+     0.9898480647157228,
+     0.9896647340559617,
+     0.9903063913651259]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9893943213328139,
+    'std_accuracy': 0.00017536610188333376,
+    'fold_accuracies': [0.9893897380663199,
+     0.9893897380663199,
+     0.9891834910740885,
+     0.9892980727364392,
+     0.989710566720902]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9894768201297065,
+    'std_accuracy': 0.00018526830837508322,
+    'fold_accuracies': [0.9894814033962005,
+     0.9895501523936109,
+     0.9892522400714989,
+     0.9893209890689094,
+     0.9897793157183125]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.989440153997754,
+    'std_accuracy': 0.0001437714521287871,
+    'fold_accuracies': [0.98941265439879,
+     0.9895272360611408,
+     0.9892522400714989,
+     0.9893439054013795,
+     0.9896647340559617]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9892339070055229,
+    'std_accuracy': 0.0002209495756939079,
+    'fold_accuracies': [0.9893668217338497,
+     0.9893439054013795,
+     0.9890459930792675,
+     0.9889084950844467,
+     0.9895043197286706]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9892934894699452,
+    'std_accuracy': 0.00024226368057204473,
+    'fold_accuracies': [0.9892980727364392,
+     0.9895959850585512,
+     0.9890001604143273,
+     0.9890459930792675,
+     0.9895272360611408]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9892568233379929,
+    'std_accuracy': 0.00027323342229372565,
+    'fold_accuracies': [0.9892522400714989,
+     0.9895501523936109,
+     0.9890918257442078,
+     0.9888397460870362,
+     0.9895501523936109]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9898205651167589,
+    'std_accuracy': 0.0002374468244286025,
+    'fold_accuracies': [0.9896189013910214,
+     0.9897793157183125,
+     0.9896876503884319,
+     0.9897334830533722,
+     0.9902834750326558]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9897609826523363,
+    'std_accuracy': 0.00017715377399991203,
+    'fold_accuracies': [0.9896418177234916,
+     0.9899168137131333,
+     0.989710566720902,
+     0.9895272360611408,
+     0.9900084790430139]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9897609826523365,
+    'std_accuracy': 0.00015159461382351005,
+    'fold_accuracies': [0.9897793157183125,
+     0.9896876503884319,
+     0.9897334830533722,
+     0.9895730687260811,
+     0.9900313953754841]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9898159818502646,
+    'std_accuracy': 0.0002759872441703209,
+    'fold_accuracies': [0.9899397300456035,
+     0.9898938973806632,
+     0.9893668217338497,
+     0.9896876503884319,
+     0.9901918097027752]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9899534798450855,
+    'std_accuracy': 0.0002558431741311675,
+    'fold_accuracies': [0.9898251483832528,
+     0.9901230607053647,
+     0.9896189013910214,
+     0.9898480647157228,
+     0.9903522240300662]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9899351467791094,
+    'std_accuracy': 0.00019734674832467538,
+    'fold_accuracies': [0.9897793157183125,
+     0.9899168137131333,
+     0.9897563993858423,
+     0.9899168137131333,
+     0.9903063913651259]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9900726447739304,
+    'std_accuracy': 0.00022888816351599757,
+    'fold_accuracies': [0.9900772280404244,
+     0.9902376423677155,
+     0.989710566720902,
+     0.9899626463780736,
+     0.9903751403625364]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9901459770378349,
+    'std_accuracy': 0.00027765669007238155,
+    'fold_accuracies': [0.9901459770378349,
+     0.9903522240300662,
+     0.989710566720902,
+     0.9900084790430139,
+     0.9905126383573573]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9900680615074364,
+    'std_accuracy': 0.0002698294755282882,
+    'fold_accuracies': [0.9899855627105438,
+     0.9902376423677155,
+     0.9896647340559617,
+     0.9899855627105438,
+     0.990466805692417]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9899488965785916,
+    'std_accuracy': 0.0002611255500285318,
+    'fold_accuracies': [0.9898938973806632,
+     0.9902147260352453,
+     0.9895272360611408,
+     0.989870981048193,
+     0.9902376423677155]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9899488965785916,
+    'std_accuracy': 0.0002857107019365776,
+    'fold_accuracies': [0.9898938973806632,
+     0.9902605587001856,
+     0.9894814033962005,
+     0.989870981048193,
+     0.9902376423677155]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9899213969796273,
+    'std_accuracy': 0.0002968173771559375,
+    'fold_accuracies': [0.989870981048193,
+     0.990168893370305,
+     0.9894584870637303,
+     0.9898022320507825,
+     0.9903063913651259]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.98971973325389,
+    'std_accuracy': 0.0002554323128188206,
+    'fold_accuracies': [0.9893668217338497,
+     0.9898022320507825,
+     0.9896647340559617,
+     0.9896189013910214,
+     0.9901459770378349]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9897288997868781,
+    'std_accuracy': 0.0002107305989426048,
+    'fold_accuracies': [0.9897334830533722,
+     0.9896189013910214,
+     0.9895043197286706,
+     0.9896647340559617,
+     0.9901230607053647]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9896876503884318,
+    'std_accuracy': 0.0003026344436000703,
+    'fold_accuracies': [0.9894584870637303,
+     0.9895959850585512,
+     0.9895043197286706,
+     0.9895959850585512,
+     0.9902834750326558]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9897884822513004,
+    'std_accuracy': 0.0002449368969615476,
+    'fold_accuracies': [0.9895043197286706,
+     0.9899168137131333,
+     0.9897334830533722,
+     0.9895959850585512,
+     0.9901918097027752]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.989866397781699,
+    'std_accuracy': 0.00024312921987989874,
+    'fold_accuracies': [0.9896189013910214,
+     0.9901001443728945,
+     0.9896647340559617,
+     0.9897334830533722,
+     0.9902147260352453]}},
+  {'params': {'n_estimators': 1200,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9897884822513004,
+    'std_accuracy': 0.00019904256250987933,
+    'fold_accuracies': [0.9896876503884319,
+     0.9898480647157228,
+     0.9896876503884319,
+     0.9895730687260811,
+     0.9901459770378349]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9899947292435318,
+    'std_accuracy': 0.00027215496646065113,
+    'fold_accuracies': [0.9899855627105438,
+     0.989870981048193,
+     0.9896647340559617,
+     0.9899626463780736,
+     0.9904897220248872]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9900084790430139,
+    'std_accuracy': 0.00025145388957712356,
+    'fold_accuracies': [0.9899168137131333,
+     0.9898022320507825,
+     0.9898251483832528,
+     0.9900084790430139,
+     0.9904897220248872]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9899718129110617,
+    'std_accuracy': 0.00020832446185327537,
+    'fold_accuracies': [0.989870981048193,
+     0.9898480647157228,
+     0.9898022320507825,
+     0.9899626463780736,
+     0.9903751403625364]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.989857231248711,
+    'std_accuracy': 0.00023352181319261856,
+    'fold_accuracies': [0.9898938973806632,
+     0.9899168137131333,
+     0.9895501523936109,
+     0.9896876503884319,
+     0.9902376423677155]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9899351467791094,
+    'std_accuracy': 0.00025780619401745354,
+    'fold_accuracies': [0.9898480647157228,
+     0.9902147260352453,
+     0.9896189013910214,
+     0.9897334830533722,
+     0.9902605587001856]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9898618145152049,
+    'std_accuracy': 0.0002756064143432763,
+    'fold_accuracies': [0.9898938973806632,
+     0.9899626463780736,
+     0.9895272360611408,
+     0.9896189013910214,
+     0.9903063913651259]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9897563993858423,
+    'std_accuracy': 0.0002420902013657182,
+    'fold_accuracies': [0.9896189013910214,
+     0.9896189013910214,
+     0.9896876503884319,
+     0.9896189013910214,
+     0.9902376423677155]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9897426495863602,
+    'std_accuracy': 0.00024707164969076263,
+    'fold_accuracies': [0.9894584870637303,
+     0.9898938973806632,
+     0.9896418177234916,
+     0.9895730687260811,
+     0.9901459770378349]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9897059834544079,
+    'std_accuracy': 0.00019520626476655844,
+    'fold_accuracies': [0.9896189013910214,
+     0.9896876503884319,
+     0.989710566720902,
+     0.9894584870637303,
+     0.9900543117079542]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9897884822513004,
+    'std_accuracy': 0.000269829475528321,
+    'fold_accuracies': [0.989870981048193,
+     0.9899168137131333,
+     0.9893439054013795,
+     0.9896647340559617,
+     0.9901459770378349]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9897838989848065,
+    'std_accuracy': 0.00021370017603181634,
+    'fold_accuracies': [0.9895959850585512,
+     0.9898480647157228,
+     0.9895959850585512,
+     0.989710566720902,
+     0.990168893370305]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 10,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9898022320507825,
+    'std_accuracy': 0.0001889729186523926,
+    'fold_accuracies': [0.9896418177234916,
+     0.9896876503884319,
+     0.9897793157183125,
+     0.9897334830533722,
+     0.990168893370305]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9901688933703049,
+    'std_accuracy': 0.0002746137851629691,
+    'fold_accuracies': [0.9901001443728945,
+     0.9903980566950066,
+     0.9898022320507825,
+     0.9899855627105438,
+     0.9905584710222975]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.990182643169787,
+    'std_accuracy': 0.0003042267209070223,
+    'fold_accuracies': [0.9901230607053647,
+     0.9904209730274767,
+     0.9897334830533722,
+     0.9900313953754841,
+     0.9906043036872378]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9901230607053646,
+    'std_accuracy': 0.0003008941506000912,
+    'fold_accuracies': [0.9900084790430139,
+     0.9903522240300662,
+     0.9897563993858423,
+     0.9899168137131333,
+     0.9905813873547678]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9900497284414603,
+    'std_accuracy': 0.00025617138872942937,
+    'fold_accuracies': [0.9900084790430139,
+     0.9902834750326558,
+     0.9897334830533722,
+     0.9898251483832528,
+     0.9903980566950066]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9900588949744483,
+    'std_accuracy': 0.00034736201519802886,
+    'fold_accuracies': [0.9898480647157228,
+     0.9903751403625364,
+     0.9896418177234916,
+     0.989870981048193,
+     0.9905584710222975]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.01,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9900359786419781,
+    'std_accuracy': 0.00031866064662131375,
+    'fold_accuracies': [0.9900543117079542,
+     0.9903063913651259,
+     0.9895272360611408,
+     0.989870981048193,
+     0.9904209730274767]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.9896876503884318,
+    'std_accuracy': 0.00023234946225702532,
+    'fold_accuracies': [0.9894584870637303,
+     0.9895959850585512,
+     0.989710566720902,
+     0.9895501523936109,
+     0.9901230607053647]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9896647340559618,
+    'std_accuracy': 0.0002547735565632301,
+    'fold_accuracies': [0.9895501523936109,
+     0.9894814033962005,
+     0.9895272360611408,
+     0.9895959850585512,
+     0.990168893370305]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.7,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9895959850585513,
+    'std_accuracy': 0.0001900812737202636,
+    'fold_accuracies': [0.9893897380663199,
+     0.9895272360611408,
+     0.9894814033962005,
+     0.9896418177234916,
+     0.9899397300456035]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0},
+   'metrics': {'mean_accuracy': 0.98971973325389,
+    'std_accuracy': 0.0002491881150229234,
+    'fold_accuracies': [0.9894814033962005,
+     0.9897793157183125,
+     0.9897334830533722,
+     0.9894584870637303,
+     0.9901459770378349]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.001},
+   'metrics': {'mean_accuracy': 0.9898113985837707,
+    'std_accuracy': 0.0001974531634029424,
+    'fold_accuracies': [0.9896418177234916,
+     0.989870981048193,
+     0.9896418177234916,
+     0.9897334830533722,
+     0.990168893370305]}},
+  {'params': {'n_estimators': 1600,
+    'max_depth': 15,
+    'learning_rate': 0.1,
+    'subsample': 0.9,
+    'alpha': 0.1},
+   'metrics': {'mean_accuracy': 0.9897288997868781,
+    'std_accuracy': 0.00023964830693955677,
+    'fold_accuracies': [0.9896418177234916,
+     0.989710566720902,
+     0.9895272360611408,
+     0.9895730687260811,
+     0.9901918097027752]}}])

@@ -1,0 +1,294 @@
+Grid search amb 72 combinacions de paràmetres...
+
+Evaluant combinació 1/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 1: Accuracy = 0.9896, Desviació = 0.0002
+
+Temps aproximat restant: 475.2559828241666 minuts
+Evaluant combinació 2/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 2: Accuracy = 0.9898, Desviació = 0.0002
+
+Temps aproximat restant: 474.6793208519618 minuts
+Evaluant combinació 3/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 3: Accuracy = 0.9895, Desviació = 0.0002
+
+Temps aproximat restant: 463.231879401207 minuts
+Evaluant combinació 4/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 4: Accuracy = 0.9898, Desviació = 0.0003
+
+Temps aproximat restant: 508.1877857049306 minuts
+Evaluant combinació 5/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 5: Accuracy = 0.9898, Desviació = 0.0003
+
+Temps aproximat restant: 464.50533828735354 minuts
+Evaluant combinació 6/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 6: Accuracy = 0.9901, Desviació = 0.0003
+
+Temps aproximat restant: 455.2083573818207 minuts
+Evaluant combinació 7/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 7: Accuracy = 0.9899, Desviació = 0.0002
+
+Temps aproximat restant: 429.8512908021609 minuts
+Evaluant combinació 8/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 8: Accuracy = 0.9901, Desviació = 0.0002
+
+Temps aproximat restant: 424.6109011332194 minuts
+Evaluant combinació 9/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 9: Accuracy = 0.9899, Desviació = 0.0002
+
+Temps aproximat restant: 415.2029708147049 minuts
+Evaluant combinació 10/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 10: Accuracy = 0.9900, Desviació = 0.0003
+
+Temps aproximat restant: 409.8980614185333 minuts
+Evaluant combinació 11/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 11: Accuracy = 0.9899, Desviació = 0.0003
+
+Temps aproximat restant: 403.963014125824 minuts
+Evaluant combinació 12/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 12: Accuracy = 0.9900, Desviació = 0.0002
+
+Temps aproximat restant: 397.16568875312805 minuts
+Evaluant combinació 13/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 13: Accuracy = 0.9887, Desviació = 0.0003
+
+Temps aproximat restant: 387.53196830352147 minuts
+Evaluant combinació 14/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 14: Accuracy = 0.9892, Desviació = 0.0004
+
+Temps aproximat restant: 382.6684073448181 minuts
+Evaluant combinació 15/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 15: Accuracy = 0.9887, Desviació = 0.0003
+
+Temps aproximat restant: 376.53743597269056 minuts
+Evaluant combinació 16/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 16: Accuracy = 0.9890, Desviació = 0.0005
+
+Temps aproximat restant: 370.6899346033732 minuts
+Evaluant combinació 17/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 17: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 361.4814019203186 minuts
+Evaluant combinació 18/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 18: Accuracy = 0.9894, Desviació = 0.0004
+
+Temps aproximat restant: 344.3742021560669 minuts
+Evaluant combinació 19/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 19: Accuracy = 0.9890, Desviació = 0.0003
+
+Temps aproximat restant: 330.75858067274095 minuts
+Evaluant combinació 20/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 20: Accuracy = 0.9895, Desviació = 0.0004
+
+Temps aproximat restant: 323.7033449172974 minuts
+Evaluant combinació 21/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 21: Accuracy = 0.9893, Desviació = 0.0003
+
+Temps aproximat restant: 316.90778670310976 minuts
+Evaluant combinació 22/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 22: Accuracy = 0.9897, Desviació = 0.0004
+
+Temps aproximat restant: 311.21252318223316 minuts
+Evaluant combinació 23/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 23: Accuracy = 0.9892, Desviació = 0.0003
+
+Temps aproximat restant: 304.5356155514717 minuts
+Evaluant combinació 24/72: {'iterations': 300, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 24: Accuracy = 0.9895, Desviació = 0.0004
+
+Temps aproximat restant: 298.95204601287844 minuts
+Evaluant combinació 25/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 25: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 481.87606027523674 minuts
+Evaluant combinació 26/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 26: Accuracy = 0.9897, Desviació = 0.0003
+
+Temps aproximat restant: 471.9132477998734 minuts
+Evaluant combinació 27/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 27: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 460.92659014463425 minuts
+Evaluant combinació 28/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 28: Accuracy = 0.9895, Desviació = 0.0003
+
+Temps aproximat restant: 451.5855724811554 minuts
+Evaluant combinació 29/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 29: Accuracy = 0.9895, Desviació = 0.0003
+
+Temps aproximat restant: 440.17438187201816 minuts
+Evaluant combinació 30/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 30: Accuracy = 0.9900, Desviació = 0.0003
+
+Temps aproximat restant: 430.6587619781494 minuts
+Evaluant combinació 31/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 31: Accuracy = 0.9896, Desviació = 0.0003
+
+Temps aproximat restant: 420.21415431896844 minuts
+Evaluant combinació 32/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 32: Accuracy = 0.9899, Desviació = 0.0004
+
+Temps aproximat restant: 410.36889362335205 minuts
+Evaluant combinació 33/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 33: Accuracy = 0.9898, Desviació = 0.0003
+
+Temps aproximat restant: 399.14408816099166 minuts
+Evaluant combinació 34/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 34: Accuracy = 0.9900, Desviació = 0.0003
+
+Temps aproximat restant: 389.32559801737466 minuts
+Evaluant combinació 35/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 35: Accuracy = 0.9897, Desviació = 0.0002
+
+Temps aproximat restant: 378.8230022231738 minuts
+Evaluant combinació 36/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 36: Accuracy = 0.9899, Desviació = 0.0003
+
+Temps aproximat restant: 369.4313537120819 minuts
+Evaluant combinació 37/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 37: Accuracy = 0.9886, Desviació = 0.0004
+
+Temps aproximat restant: 358.61164514223736 minuts
+Evaluant combinació 38/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 38: Accuracy = 0.9890, Desviació = 0.0003
+
+Temps aproximat restant: 349.12056283950807 minuts
+Evaluant combinació 39/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 39: Accuracy = 0.9886, Desviació = 0.0004
+
+Temps aproximat restant: 339.2100971698761 minuts
+Evaluant combinació 40/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 40: Accuracy = 0.9890, Desviació = 0.0005
+
+Temps aproximat restant: 328.5456970214844 minuts
+Evaluant combinació 41/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 41: Accuracy = 0.9888, Desviació = 0.0004
+
+Temps aproximat restant: 317.72740677197777 minuts
+Evaluant combinació 42/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 42: Accuracy = 0.9893, Desviació = 0.0002
+
+Temps aproximat restant: 307.79811549186707 minuts
+Evaluant combinació 43/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 43: Accuracy = 0.9888, Desviació = 0.0003
+
+Temps aproximat restant: 297.66555910110475 minuts
+Evaluant combinació 44/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 44: Accuracy = 0.9893, Desviació = 0.0005
+
+Temps aproximat restant: 287.5793232282003 minuts
+Evaluant combinació 45/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 45: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 276.77557475566863 minuts
+Evaluant combinació 46/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 46: Accuracy = 0.9894, Desviació = 0.0004
+
+Temps aproximat restant: 266.69746252695717 minuts
+Evaluant combinació 47/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 47: Accuracy = 0.9889, Desviació = 0.0003
+
+Temps aproximat restant: 256.0431782404582 minuts
+Evaluant combinació 48/72: {'iterations': 500, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 48: Accuracy = 0.9893, Desviació = 0.0003
+
+Temps aproximat restant: 246.30127401351928 minuts
+Evaluant combinació 49/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 49: Accuracy = 0.9890, Desviació = 0.0003
+
+Temps aproximat restant: 329.2179536898931 minuts
+Evaluant combinació 50/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 50: Accuracy = 0.9895, Desviació = 0.0003
+
+Temps aproximat restant: 315.121876502037 minuts
+Evaluant combinació 51/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 51: Accuracy = 0.9889, Desviació = 0.0003
+
+Temps aproximat restant: 300.9239723086357 minuts
+Evaluant combinació 52/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 52: Accuracy = 0.9895, Desviació = 0.0003
+
+Temps aproximat restant: 286.7347009976705 minuts
+Evaluant combinació 53/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 53: Accuracy = 0.9893, Desviació = 0.0002
+
+Temps aproximat restant: 271.90782012542087 minuts
+Evaluant combinació 54/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 54: Accuracy = 0.9898, Desviació = 0.0004
+
+Temps aproximat restant: 257.58715867996216 minuts
+Evaluant combinació 55/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 55: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 243.37879614035288 minuts
+Evaluant combinació 56/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 56: Accuracy = 0.9897, Desviació = 0.0004
+
+Temps aproximat restant: 229.27289168039957 minuts
+Evaluant combinació 57/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 57: Accuracy = 0.9895, Desviació = 0.0002
+
+Temps aproximat restant: 214.3300524353981 minuts
+Evaluant combinació 58/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 58: Accuracy = 0.9899, Desviació = 0.0002
+
+Temps aproximat restant: 200.49348340829212 minuts
+Evaluant combinació 59/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 59: Accuracy = 0.9894, Desviació = 0.0003
+
+Temps aproximat restant: 185.8792143702507 minuts
+Evaluant combinació 60/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 60: Accuracy = 0.9898, Desviació = 0.0002
+
+Temps aproximat restant: 171.80198888778688 minuts
+Evaluant combinació 61/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 61: Accuracy = 0.9885, Desviació = 0.0004
+
+Temps aproximat restant: 157.61336188316346 minuts
+Evaluant combinació 62/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 62: Accuracy = 0.9889, Desviació = 0.0003
+
+Temps aproximat restant: 143.358900586764 minuts
+Evaluant combinació 63/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 63: Accuracy = 0.9885, Desviació = 0.0005
+
+Temps aproximat restant: 129.11452099084855 minuts
+Evaluant combinació 64/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 64: Accuracy = 0.9889, Desviació = 0.0006
+
+Temps aproximat restant: 114.69429550170898 minuts
+Evaluant combinació 65/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 65: Accuracy = 0.9888, Desviació = 0.0004
+
+Temps aproximat restant: 100.1965637087822 minuts
+Evaluant combinació 66/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 66: Accuracy = 0.9891, Desviació = 0.0003
+
+Temps aproximat restant: 85.9083425283432 minuts
+Evaluant combinació 67/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 67: Accuracy = 0.9887, Desviació = 0.0002
+
+Temps aproximat restant: 71.57573858896892 minuts
+Evaluant combinació 68/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 68: Accuracy = 0.9892, Desviació = 0.0004
+
+Temps aproximat restant: 57.29308160146078 minuts
+Evaluant combinació 69/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 32}
+Combinació 69: Accuracy = 0.9890, Desviació = 0.0003
+
+Temps aproximat restant: 45.709809148311614 minuts
+Evaluant combinació 70/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.3, 'border_count': 72}
+Combinació 70: Accuracy = 0.9893, Desviació = 0.0003
+
+Temps aproximat restant: 30.179657220840454 minuts
+Evaluant combinació 71/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 32}
+Combinació 71: Accuracy = 0.9888, Desviació = 0.0003
+
+Temps aproximat restant: 15.040575440724691 minuts
+Evaluant combinació 72/72: {'iterations': 700, 'depth': 15, 'learning_rate': 0.2, 'l2_leaf_reg': 1, 'bagging_temperature': 0.6, 'border_count': 72}
+Combinació 72: Accuracy = 0.9892, Desviació = 0.0004
+
+Temps aproximat restant: 0.0 minuts
+Grid search completat.
+
+Millors Paràmetres: {'iterations': 300, 'depth': 15, 'learning_rate': 0.1, 'l2_leaf_reg': 0.5, 'bagging_temperature': 0.6, 'border_count': 72}
+Millor accuracy: 0.9901
