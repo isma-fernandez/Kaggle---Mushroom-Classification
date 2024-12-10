@@ -14,7 +14,7 @@ Conté els notebooks amb experiments detallats que implementen:
 - Divisió de dades amb `train_test_split` i estratègies avançades com `StratifiedKFold`.
 - Codificació utilitzant eines com `LabelEncoder`, `OrdinalEncoder` i `OneHotEncoder`.
 - Normalització i escalat amb `StandardScaler`.
-- Selecció i transformació de característiques amb tècniques com PCA (Anàlisi de Components Principals).
+- Selecció i transformació de característiques.
 
 ---
 
